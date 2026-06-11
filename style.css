@@ -83,3 +83,13 @@ form button {
     border-radius: 5px;
     padding: 5px;
 }
+
+.delete {
+    background: rgb(0, 0, 255);
+    color: white;
+    border: none;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    line-height: 1;
+}

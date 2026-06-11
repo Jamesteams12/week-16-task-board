@@ -73,6 +73,7 @@ function createTask(id, text, status) {
     task.textContent = text;
     const deleteBtn = document.createElement('button');
     deleteBtn.type = 'button';
+    deleteBtn.className = 'delete';
     deleteBtn.textContent = 'X';
     deleteBtn.addEventListener('click', () => {
         task.remove();
