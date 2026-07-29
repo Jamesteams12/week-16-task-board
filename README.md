@@ -1,5 +1,5 @@
 # Task board
-A simple website that the user can add or remove tasks to it to keep track of taks
+A simple website that the user can add or remove tasks to it to keep track of tasks
 
 ## Features
 * They can drag and drop the task
