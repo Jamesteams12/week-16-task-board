@@ -6,10 +6,13 @@ A simple website that the user can add or remove tasks to it.
 * save tasks to computer
 * they made into any of the three sections (to-do, busy, complete).
 
-### Tech Stack
+## Tech Stack
 * HTML
 * JavaScript
 * CSS
 
-#### Setup/installation
-download all files (except for the readme file) and put them in a single folder and then run the index.html file 
+## Setup/installation
+requires vscode application to use it
+an extension like (Live servers) is needed to run it
+download all files (except for the readme file) and put them in a single folder
+then run the index.html file with the extension 
